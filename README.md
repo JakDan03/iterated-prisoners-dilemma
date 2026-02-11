@@ -33,6 +33,8 @@ The tournament module simulates repeated pairwise interactions between all strat
 
 This reproduces the logic of Robert Axelrod’s original computational experiments on the evolution of cooperation in well-mixed populations.
 
+![Example_table](example_table.png)
+
 ---
 
 ### Spatial Model
@@ -52,7 +54,7 @@ The simulation supports:
 
 This enables analysis of spatiotemporal dynamics of cooperation and defection.
 
-![Example](spatial_example4/iter_0025.png)
+![Example_spatial](spatial_example4/iter_0025.png)
 
 ---
 
